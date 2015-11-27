@@ -6,7 +6,7 @@ Code Basis on [https://github.com/352Media/skilltree](https://github.com/352Medi
 
 ##Development
 
-###技术栈
+###技术栈 - 中文
 
  - Knockout
  - RequireJS
